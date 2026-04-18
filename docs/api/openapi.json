@@ -1,0 +1,9 @@
+{
+  "openapi": "3.1.0",
+  "info": {
+    "title": "[PROJECT_NAME] API",
+    "version": "0.1.0",
+    "description": "Replace this placeholder with the real API description."
+  },
+  "paths": {}
+}

@@ -1,0 +1,3 @@
+### Sample request
+GET {{baseUrl}}/health
+Accept: application/json

@@ -1,0 +1,8 @@
+{
+  "info": {
+    "name": "[PROJECT_NAME] API",
+    "_postman_id": "[GENERATE_UUID]",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "item": []
+}
