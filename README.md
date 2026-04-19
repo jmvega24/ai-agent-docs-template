@@ -52,3 +52,9 @@ new-doc-git/
 - Replace bracket placeholders like `[PROJECT_NAME]` and `[TEAM_NAME]`.
 - Delete folders that are not relevant for the project.
 - Keep file names functional and stable.
+
+## Usage Note
+
+Use this template freely in your projects and team workflows. If it helps your work, please keep a visible credit to the original idea.
+
+Created by Juan Vega.
